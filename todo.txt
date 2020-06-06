@@ -17,4 +17,7 @@ Check ✓
    e foreach, adicionando listener nos botões passando button.id
 (✓) Implementar addToFavorites(id)
 (✓) Implementar removeFromFavorites(id)
-(  ) Implementar formatação de valores numéricos
+(✓) Implementar formatação de valores numéricos
+
+
+[Implementation - RGB Seletor](https://daniel-anjos.github.io/escaleRGB/escaleRGB.html)
