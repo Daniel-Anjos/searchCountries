@@ -1,0 +1,57 @@
+body {
+  padding: 10px;
+  background-color: lightcyan;
+  position: relative;  
+  display:grid;
+  justify-content: center;
+}
+
+h1{
+  font-size: 5rem;
+  font-weight: bold;
+  color: blue;
+  background-color: lavender;
+  border-style:  solid;
+  border-color: gray;
+  border-width: 0.25;
+  text-align: center;
+}
+
+.subtitle{
+  font-weight: bold;
+}
+
+img {
+  width: 80px;
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+}
+
+.country-container {
+  display: flex;
+}
+
+.country {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.add {
+  border-radius: 50%;
+  color: white;
+  font-weight: bold;
+}
+
+.country-list {
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  margin-right: 5px;
+  background-color: darkgrey;
+}
