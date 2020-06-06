@@ -8,7 +8,7 @@ June, 2020
 [Implementation - Search Countries](https://daniel-anjos.github.io/searchCountries/index.html)
 
 ### Exemple
-![Search Coutries](https://github.com/Daniel-Anjos/searchCountries/blob/master/img/searchCountries.png)
+![Search Coutries](https://github.com/Daniel-Anjos/searchCountries/blob/master/img/serchCountries.png)
 
 
 
